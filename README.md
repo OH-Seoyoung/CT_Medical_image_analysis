@@ -1,11 +1,11 @@
 # CT_Medical_image_analysis (20210428 ~ )
 - Medical image enhancement with Kaggle CT dataset (in progress)
 
-### 0. Practice
+### 0. Practice | [[Code]](https://github.com/OH-Seoyoung/CT_Medical_image_analysis/tree/master/Practice)  
 - EDA and Visualization
 - Classification using Baseline CNN
 
-### 1. Image enhancement - Conventional Methods
+### 1. Image enhancement - Conventional Methods | [[Code]](https://github.com/OH-Seoyoung/CT_Medical_image_analysis/blob/master/Image_enhancement/Image_enhancement-conventional_methods.ipynb)  
 - Normalization
 - Histogram Equalization
 - Filtering
