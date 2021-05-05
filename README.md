@@ -1,4 +1,4 @@
-# CT_Medical_image_analysis (20210428 ~ )
+# CT Medical image analysis (20210428 ~ )
 - Medical image enhancement with Kaggle CT dataset (in progress)
 
 ### 0. Practice | [[Code]](https://github.com/OH-Seoyoung/CT_Medical_image_analysis/tree/master/Practice)  
