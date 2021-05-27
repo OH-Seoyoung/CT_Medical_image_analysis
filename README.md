@@ -14,5 +14,9 @@
 ## Dataset
 ```
 [1] CT Medical Images, https://www.kaggle.com/kmader/siim-medical-images
-[2] Jan Erik Solem, Programming Computer Vision with Python (2012)
+```
+
+## Reference
+```
+[1] Jan Erik Solem, Programming Computer Vision with Python (2012)
 ```
