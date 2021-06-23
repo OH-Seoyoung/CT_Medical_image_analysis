@@ -14,6 +14,7 @@
 ## Dataset
 ```
 [1] CT Medical Images, https://www.kaggle.com/kmader/siim-medical-images
+[2] CT Scans for COVID-19 Classification, https://www.kaggle.com/azaemon/preprocessed-ct-scans-for-covid19
 ```
 
 ## Reference
