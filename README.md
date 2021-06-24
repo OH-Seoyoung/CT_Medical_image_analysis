@@ -11,7 +11,7 @@
 - Filtering
 - Dictionary Learning
 
-## 2. Image classification - Lenet
+### 2. Image classification - Lenet
 
 
 
