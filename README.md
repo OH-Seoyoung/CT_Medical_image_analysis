@@ -1,5 +1,6 @@
-# CT Medical image analysis (20210428 ~ )
+# CT Medical image analysis
 - Medical image enhancement with Kaggle CT dataset (in progress)
+- Apr. 28, 2021
 
 ### 0. Practice | [Code](https://github.com/OH-Seoyoung/CT_Medical_image_analysis/tree/master/Practice)  
 - EDA and Visualization
