@@ -15,8 +15,8 @@
 - Dictionary Learning
 
 ### 2. Image classification - Lenet | [Code](https://github.com/OH-Seoyoung/CT_Medical_image_analysis/tree/master/Lenet)
-
-
+- Modeling low-dose CT image : Gauss, Poisson, Salt & Pepper, Speckle
+- Classification using LeNet-5
 
 
 ## Dataset
