@@ -2,6 +2,8 @@
 - Medical image enhancement with Kaggle CT dataset (in progress)
 - Apr. 28, 2021
 
+| [Presentation](https://github.com/OH-Seoyoung/CT_Medical_image_analysis/blob/master/20210628_Presentation.pdf) |
+
 ### 0. Practice | [Code](https://github.com/OH-Seoyoung/CT_Medical_image_analysis/tree/master/Practice)  
 - EDA and Visualization
 - Classification using Baseline CNN
