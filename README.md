@@ -1,6 +1,6 @@
 # CT Medical image analysis
 - Medical CT mage enhancement and classification
-- Apr. 28, 2021
+- Apr. 28, 2021 ~ Jun. 28, 2021
 
 | [Presentation](https://github.com/OH-Seoyoung/CT_Medical_image_analysis/blob/master/20210628_Presentation.pdf) |
 
