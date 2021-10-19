@@ -5,17 +5,17 @@
 | [Presentation](https://github.com/OH-Seoyoung/CT_Medical_image_analysis/blob/master/20210628_Presentation.pdf) |
 
 ## Process
-### 0. Practice | [Code](https://github.com/OH-Seoyoung/CT_Medical_image_analysis/tree/master/Practice)  
+### 1. Practice | [Code](https://github.com/OH-Seoyoung/CT_Medical_image_analysis/tree/master/Practice)  
 - EDA and Visualization
 - Classification using Baseline CNN
 
-### 1. Image enhancement - Conventional Methods | [Code](https://github.com/OH-Seoyoung/CT_Medical_image_analysis/blob/master/Image_enhancement/Image_enhancement-conventional_methods.ipynb)  
+### 2. Image enhancement - Conventional Methods | [Code](https://github.com/OH-Seoyoung/CT_Medical_image_analysis/blob/master/Image_enhancement/Image_enhancement-conventional_methods.ipynb)  
 - Normalization
 - Histogram Equalization
 - Filtering
 - Dictionary Learning
 
-### 2. Image classification - Lenet | [Code](https://github.com/OH-Seoyoung/CT_Medical_image_analysis/tree/master/Lenet)
+### 3. Image classification - Lenet | [Code](https://github.com/OH-Seoyoung/CT_Medical_image_analysis/tree/master/Lenet)
 - Modeling low-dose CT image : Gauss, Poisson, Salt & Pepper, Speckle
 - Classification using LeNet-5
 
