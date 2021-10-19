@@ -4,6 +4,7 @@
 
 | [Presentation](https://github.com/OH-Seoyoung/CT_Medical_image_analysis/blob/master/20210628_Presentation.pdf) |
 
+## Process
 ### 0. Practice | [Code](https://github.com/OH-Seoyoung/CT_Medical_image_analysis/tree/master/Practice)  
 - EDA and Visualization
 - Classification using Baseline CNN
