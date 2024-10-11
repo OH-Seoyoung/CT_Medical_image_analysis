@@ -1,4 +1,4 @@
-# CT Medical image analysis
+# CT Medical Image Analysis
 - Medical CT image enhancement and classification
 - Apr. 28, 2021 ~ Jun. 28, 2021
 
